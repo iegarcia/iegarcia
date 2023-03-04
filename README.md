@@ -19,7 +19,7 @@ I'm just a guy who likes to code, always looking to improve my skills
 - 🕺 Latin rhythms dancer
 
 - 📫 You can find me in:
-[Website](ignaciodev.vercel.app) or [Social media](https://linktr.ee/iegarciadev)
+[Website](https://ignaciodev.vercel.app) or [Social media](https://linktr.ee/iegarciadev)
 
 
 
