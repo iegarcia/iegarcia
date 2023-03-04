@@ -1,4 +1,4 @@
-## Hi there, I'm Ignacio E. Garcia (iegarcia) 👋
+## Hi there, I'm iegarcia (Nach) 👋
 
 - **Front-End**
 - **Back-End**
